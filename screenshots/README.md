@@ -7,7 +7,7 @@
 ## 01_google_messageheader_analysis.jpeg
 **Tool:** Google Admin Toolbox — Messageheader (toolbox.googleapps.com/apps/messageheader)
 **What It Shows:** The sample EMAIL-01 header was submitted to Google's
-analyzer. Confirms MessageId, From, To, Subject, and the relay hop from
+analyzer. Confirms MessageId, From, To, Subject, and the relay hop from 
 `mail.secure-account-verify[.]com` (unverified) to `mx.company.com` via ESMTP.
 
 ---
