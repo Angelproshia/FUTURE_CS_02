@@ -11,7 +11,7 @@ task simulates the work of a real security analyst — analyzing phishing
 email samples, identifying indicators, classifying risk, and producing a
 client-ready awareness report that any business could use to train employees.
 
----
+--- 
 
 ## What Was Analyzed
 
